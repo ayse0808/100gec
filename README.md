@@ -1,1 +1,1 @@
-# 100-ge-oyunu-
+"100'ü Geç!", JavaScript ile geliştirilen basit ama eğlenceli bir sayı tahmin oyunudur. Oyuncunun amacı, 10 buton arasından 3 tanesini seçerek toplamda 100'ün üzerinde bir sayı elde etmektir. Her butonun arkasında rastgele bir sayı gizlidir ve her oyun yeniden başladığında bu sayılar değişir.
